@@ -5,6 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <RepositoryUrl>https://github.com/q71710/CoinNugetDemo</RepositoryUrl>
+    <PackageVersion>1.0.1-alpha</PackageVersion>
   </PropertyGroup>
 
 </Project>
