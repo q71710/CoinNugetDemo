@@ -12,6 +12,11 @@ namespace CoinNugetDemo.Contracts
             return a / b;
         }
 
+        public int Divide2(int a, int b)
+        {
+            return a / b;
+        }
+        
         public int Multiply(int a, int b)
         {
             return a * b;
